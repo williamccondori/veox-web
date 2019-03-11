@@ -1,1 +1,10 @@
-/* You can add global styles to this file, and also import other style files */
+@font-face {
+  font-family: Veox;
+  src: url(/assets/fonts/Nunito-Medium.ttf);
+  src: url(/assets/fonts/Nunito-ExtraLight.ttf);
+}
+
+body {
+  font-family: Veox;
+}
+/*# sourceMappingURL=styles.css.map */
